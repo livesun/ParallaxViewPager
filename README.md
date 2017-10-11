@@ -42,4 +42,8 @@ new int[]{R.layout.activity_test,R.layout.activity_kotlin,R.layout.activity_user
         app:translationYIn="0.82"
         app:translationYOut="0.82"
         app:translationXOut="0.12" />
-```	
+```
+ 上面有demo 可以看demo的实现
+ 
+博客 
+ 地址：https://livesun.github.io/2017/10/11/ParallaxViewPager/
