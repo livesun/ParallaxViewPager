@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- X方向上的位移 -->
+    <attr name="translationXIn" format="float" />
+    <attr name="translationXOut" format="float" />
+    <!-- Y方向上的位移 -->
+    <attr name="translationYIn" format="float" />
+    <attr name="translationYOut" format="float" />
+<!--
+    &lt;!&ndash;透明度&ndash;&gt;
+    <attr name="alphaIn" format="float"/>
+    <attr name="alphaOut" format="float"/>
+
+    &lt;!&ndash;X轴缩放&ndash;&gt;
+    <attr name="scaleXIn" format="float"/>
+    <attr name="scaleXOut" format="float"/>
+    &lt;!&ndash;Y轴缩放&ndash;&gt;
+    <attr name="scaleYIn" format="float"/>
+    <attr name="scaleYOut" format="float"/>
+
+    &lt;!&ndash;X轴旋转&ndash;&gt;
+    <attr name="rotateXIn" format="float"/>
+    <attr name="rotateXOut" format="float"/>
+    &lt;!&ndash;Y轴旋转&ndash;&gt;
+    <attr name="rotateYIn" format="float"/>
+    <attr name="rotateYOut" format="float"/>-->
+</resources>
