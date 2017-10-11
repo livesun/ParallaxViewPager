@@ -43,7 +43,10 @@ new int[]{R.layout.activity_test,R.layout.activity_kotlin,R.layout.activity_user
         app:translationYOut="0.82"
         app:translationXOut="0.12" />
 ```
+如果 想要按钮，可以通过监听viewpager的滑动，到最后一页把按钮展示出来
  上面有demo 可以看demo的实现
  
 博客 
  地址：https://livesun.github.io/2017/10/11/ParallaxViewPager/
+ 
+ 
